@@ -1,4 +1,4 @@
-Elementary ‐ Difficult Customer (B0001) 
+# Elementary ‐ Difficult Customer (B0001) 
 A: Good evening. My name is Fabio, I’ll be your waiter for tonight. May I take your order? 
 B: No, I’m still working on it. This menu is not even in English. What’s good here? 
 A: For you sir, I would recommend spaghetti and meatballs. 
@@ -9,7 +9,8 @@ A: Excellent choice, your order will be ready soon.
 B: How soon is soon? 
 A: Twenty minutes? 
 B: You know what? I’ll just go grab a burger across the street. 
-Elementary ‐ Calling In Sick (B0002) 
+
+# Elementary ‐ Calling In Sick (B0002) 
 A: Hello, Daniel speaking, how may I help you? 
 B: Hi, Daniel, Julie here. 
 A: Hi, Julie, how are you? 
